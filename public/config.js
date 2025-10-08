@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/chinesefourbnb",
   "VITE_SEO_SITE_NAME": "4 | 四",
   "VITE_SEO_SITE_DESCRIPTION": "4 | 四 | Introducing a powerful PERPS DEX",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/chinesefour-2140/",
+  "VITE_SEO_SITE_URL": "https://dex.chinesefour.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@chinesefourbnb",
